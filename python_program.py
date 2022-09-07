@@ -1,5 +1,5 @@
 
-input1 = input("Enter the first number: "    )
+input1 = input("Enter the first number: "     )
 print(input1)
 
 input2 = input("Enter the second number: ")
